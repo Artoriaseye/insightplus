@@ -1,0 +1,9 @@
+{
+  "name": "insightplus",
+  "version": "0.0.0",
+  "description": "insightplus",
+  "main": "server.js",
+  "author": {
+    "name": "ZhaoSen"
+  }
+}
