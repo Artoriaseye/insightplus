@@ -48,6 +48,7 @@
     <Content Include="static\css\bootstrap.css.map" />
     <Content Include="static\css\bootstrap.min.css" />
     <Content Include="static\css\bootstrap.min.css.map" />
+    <Content Include="static\image\logo.png" />
     <Content Include="static\index.html">
       <SubType>Code</SubType>
     </Content>
