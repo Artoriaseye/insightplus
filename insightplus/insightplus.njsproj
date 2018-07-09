@@ -48,6 +48,20 @@
     <Content Include="static\css\bootstrap.css.map" />
     <Content Include="static\css\bootstrap.min.css" />
     <Content Include="static\css\bootstrap.min.css.map" />
+    <Content Include="static\image\img1.png" />
+    <Content Include="static\image\img11.png" />
+    <Content Include="static\image\img12.png" />
+    <Content Include="static\image\img13.png" />
+    <Content Include="static\image\img14.png" />
+    <Content Include="static\image\img20.png" />
+    <Content Include="static\image\img21.png" />
+    <Content Include="static\image\img22.png" />
+    <Content Include="static\image\img30.png" />
+    <Content Include="static\image\img31.png" />
+    <Content Include="static\image\img32.png" />
+    <Content Include="static\image\img33.png" />
+    <Content Include="static\image\img34.png" />
+    <Content Include="static\image\img35.png" />
     <Content Include="static\image\logo.png" />
     <Content Include="static\index.html">
       <SubType>Code</SubType>
