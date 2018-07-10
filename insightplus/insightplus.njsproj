@@ -55,23 +55,41 @@
     <Content Include="static\image\img12.png" />
     <Content Include="static\image\img13.png" />
     <Content Include="static\image\img14.png" />
+    <Content Include="static\image\img2.png" />
     <Content Include="static\image\img20.png" />
     <Content Include="static\image\img21.png" />
     <Content Include="static\image\img22.png" />
+    <Content Include="static\image\img3.png" />
     <Content Include="static\image\img30.png" />
     <Content Include="static\image\img31.png" />
     <Content Include="static\image\img32.png" />
     <Content Include="static\image\img33.png" />
     <Content Include="static\image\img34.png" />
     <Content Include="static\image\img35.png" />
+    <Content Include="static\image\img4.png" />
+    <Content Include="static\image\img40.png" />
+    <Content Include="static\image\img41.png" />
+    <Content Include="static\image\img42.png" />
+    <Content Include="static\image\img50.png" />
+    <Content Include="static\image\img51.png" />
+    <Content Include="static\image\img52.png" />
+    <Content Include="static\image\img53.png" />
+    <Content Include="static\image\img54.png" />
     <Content Include="static\image\logo.png" />
     <Content Include="static\image\mail.png" />
     <Content Include="static\image\map.png" />
+    <Content Include="static\image\mobikok.png" />
     <Content Include="static\image\phone.png" />
     <Content Include="static\image\social-linkedin.png" />
     <Content Include="static\image\social-quora.png" />
     <Content Include="static\image\social-skype.png" />
     <Content Include="static\image\Twitter.png" />
+    <Content Include="static\advertiser.html" />
+    <Content Include="static\aboutus.html" />
+    <Content Include="static\contactus.html" />
+    <Content Include="static\platform.html" />
+    <Content Include="static\technology.html" />
+    <Content Include="static\rublisher.html" />
     <Content Include="static\index.html">
       <SubType>Code</SubType>
     </Content>
@@ -79,9 +97,6 @@
     <Content Include="static\js\bootstrap.bundle.min.js.map" />
     <Content Include="static\js\bootstrap.js.map" />
     <Content Include="static\js\bootstrap.min.js.map" />
-    <Content Include="static\Rublisher.html">
-      <SubType>Code</SubType>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="static\" />
