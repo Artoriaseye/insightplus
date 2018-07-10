@@ -84,6 +84,10 @@
     <Content Include="static\image\img71.png" />
     <Content Include="static\image\img72.png" />
     <Content Include="static\image\img73.png" />
+    <Content Include="static\image\img8.png" />
+    <Content Include="static\image\img80.png" />
+    <Content Include="static\image\img90.png" />
+    <Content Include="static\image\img92.png" />
     <Content Include="static\image\logo.png" />
     <Content Include="static\image\mail.png" />
     <Content Include="static\image\map.png" />
@@ -97,6 +101,8 @@
     <Content Include="static\aboutus.html" />
     <Content Include="static\contactus.html" />
     <Content Include="static\image\www.png" />
+    <Content Include="static\newlist.html" />
+    <Content Include="static\news.html" />
     <Content Include="static\platform.html" />
     <Content Include="static\technology.html" />
     <Content Include="static\rublisher.html" />
