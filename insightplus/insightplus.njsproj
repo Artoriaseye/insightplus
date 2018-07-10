@@ -48,6 +48,8 @@
     <Content Include="static\css\bootstrap.css.map" />
     <Content Include="static\css\bootstrap.min.css" />
     <Content Include="static\css\bootstrap.min.css.map" />
+    <Content Include="static\image\facebook.png" />
+    <Content Include="static\image\google.png" />
     <Content Include="static\image\img1.png" />
     <Content Include="static\image\img11.png" />
     <Content Include="static\image\img12.png" />
@@ -63,6 +65,13 @@
     <Content Include="static\image\img34.png" />
     <Content Include="static\image\img35.png" />
     <Content Include="static\image\logo.png" />
+    <Content Include="static\image\mail.png" />
+    <Content Include="static\image\map.png" />
+    <Content Include="static\image\phone.png" />
+    <Content Include="static\image\social-linkedin.png" />
+    <Content Include="static\image\social-quora.png" />
+    <Content Include="static\image\social-skype.png" />
+    <Content Include="static\image\Twitter.png" />
     <Content Include="static\index.html">
       <SubType>Code</SubType>
     </Content>
@@ -70,6 +79,9 @@
     <Content Include="static\js\bootstrap.bundle.min.js.map" />
     <Content Include="static\js\bootstrap.js.map" />
     <Content Include="static\js\bootstrap.min.js.map" />
+    <Content Include="static\Rublisher.html">
+      <SubType>Code</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="static\" />
