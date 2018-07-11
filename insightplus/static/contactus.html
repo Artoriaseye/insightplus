@@ -5,6 +5,23 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <meta charset="utf-8" />
     <title></title>
+    <style type="text/css">
+        html {
+            height: 100%
+        }
+
+        body {
+            height: 100%;
+            margin: 0px;
+            padding: 0px
+        }
+
+        #container {
+            height: 60%
+        }
+    </style>
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=iD4GHs0992T61Uua0hHXC0Ahh1sou6i1">
+    </script>
 </head>
 <body>
 
@@ -57,14 +74,19 @@
 
     <!-- 各页面内容-->
 
-    <div class="card bg-dark text-white rounded-0 ">
-        <img class="card-img" src="image/img7.png" alt="Card image">
-        <div class="card-img-overlay d-flex justify-content-center align-items-center">
-            <blockquote class="blockquote text-center">
-                
-            </blockquote>
-        </div>
+    <div class="card bg-dark text-white rounded-0" id="container">
+        test1
     </div>
+
+    <script type="text/javascript">
+        var map = new BMap.Map("container");
+        //var point = new BMap.Point(121.48, 31.235);
+        var point = new BMap.Point(121.476637, 31.234591);
+        map.centerAndZoom(point, 15);
+        var marker = new BMap.Marker(point);        // 创建标注    
+        map.addOverlay(marker);
+        map.centerAndZoom(point, 15);
+    </script>
 
     <div class="container">
         <nav aria-label="breadcrumb">
@@ -137,7 +159,7 @@
                 </ul>
             </div>
         </div>
-        <hr class="my-4"/>
+        <hr class="my-4" />
     </div>
 
     <!-- 页脚-->
